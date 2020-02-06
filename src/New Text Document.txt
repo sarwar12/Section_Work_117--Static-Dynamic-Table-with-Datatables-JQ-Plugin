@@ -1,0 +1,2 @@
+### DataTables JQ Plugin:
+	https://datatables.net/manual/installation

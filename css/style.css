@@ -1,0 +1,44 @@
+/* Main CSS Start */
+*{
+	margin: 0;
+	padding: 0;
+}
+img{
+	max-width: 100%;
+	height: auto;
+}
+body{
+	font-family: sans-serif;
+}
+h1,h2,h3,h4,h5,h6{
+	margin: 0 0 15px;
+	font-weight: 700;
+}
+a:focus, input:focus, teaxarea:focus, button:focus{outline: 0 solid;}
+a:hover{
+	text-decoration: none;
+}
+.section-padding{padding: 80px 0;}
+/* Main CSS Stop */
+/* === table Section CSS Start === */
+.schedule th {
+  background-color: #f0f0f0;
+  font-weight: 400;
+}
+.schedule {
+  border-right: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+  text-align: center;
+}
+.schedule {
+}
+.schedule th, .schedule td {
+  border-left: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+  padding: 20px;
+}
+.schedule h4 {
+  font-weight: 400;
+  font-size: 21px;
+}
+/* === table Section CSS Stop === */
